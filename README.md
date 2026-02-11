@@ -1,7 +1,7 @@
 # IOT-Cloud-Connected-Weather-Data-Logger-Using-Raspberry-Pi-Pico-W-
 an Edge-to-Cloud IoT Environmental Monitoring System
 
-![FrontEnd Preview](assets/Asset2.jpeg)
+![FrontEnd Preview](Assets/Asset2.jpeg)
 
 This project demonstrates an IoT-based environmental monitoring system using a Raspberry Pi Pico W and BME280 sensor. The device collects real-time temperature, pressure, and humidity data and sends it to a cloud-hosted Google Apps Script, which logs the readings into Google Sheets for remote monitoring and analysis.
 
